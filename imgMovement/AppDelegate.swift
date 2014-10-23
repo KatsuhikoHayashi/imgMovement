@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  imgMovement
 //
-//  Created by 林克彦 on 2014/10/22.
+//  Created by Hayashidesu on 2014/10/22.
 //  Copyright (c) 2014年 Hayashidesu. All rights reserved.
 //
 
